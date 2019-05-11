@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/sortby"
+        android:title="@string/sortby"
+        app:showAsAction="never">
+
+        <menu>
+            <item
+                android:id="@+id/sortTitle"
+                android:title="@string/title"
+                app:showAsAction="never">
+
+                <menu>
+                    <item
+                        android:id="@+id/sortTitleAsc"
+                        android:title="@string/ascending"
+                        app:showAsAction="never"/>
+
+                    <item
+                        android:id="@+id/sortTitleDesc"
+                        android:title="@string/descending"
+                        app:showAsAction="never"/>
+
+                </menu>
+            </item>
+
+            <item
+                android:id="@+id/sortAuthor"
+                android:title="@string/author"
+                app:showAsAction="never">
+
+                <menu>
+                    <item
+                        android:id="@+id/sortAuthorAsc"
+                        android:title="@string/ascending"
+                        app:showAsAction="never"/>
+
+                    <item
+                        android:id="@+id/sortAuthorDesc"
+                        android:title="@string/descending"
+                        app:showAsAction="never"/>
+
+                </menu>
+            </item>
+        </menu>
+
+    </item>
+
+    <item
+        android:id="@+id/myfavorites"
+        android:title="@string/myfavorites"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/aboutme"
+        android:title="@string/aboutme"
+        app:showAsAction="never"/>
+</menu>

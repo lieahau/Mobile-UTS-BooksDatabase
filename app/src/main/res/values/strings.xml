@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Project UTS - 00000012802</string>
+    <string name="app_title">Star Books</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="aboutme">About Me</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="asin">Asin</string>
+    <string name="group">Group</string>
+    <string name="format">Format</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="publisher">Publisher</string>
+    <string name="favorite">Favorite</string>
+    <string name="search">Search</string>
+    <string name="searchabook">Search a book</string>
+    <string name="sortby">Sort By</string>
+    <string name="ascending">Ascending</string>
+    <string name="descending">Descending</string>
+    <string name="myfavorites">My Favorites</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="aboutmecaps">ABOUT ME</string>
+    <string name="name">Name</string>
+    <string name="myname">Budiman Putra Jaya</string>
+    <string name="nim">NIM</string>
+    <string name="mynim">00000012802</string>
+    <string name="librarycaps">LIBRARY</string>
+    <string name="mylibrary1">com.android.support:cardview-v7:28.0.0</string>
+    <string name="mylibrary2">com.android.support:design:28.0.0</string>
+</resources>
